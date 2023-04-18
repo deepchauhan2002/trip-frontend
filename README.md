@@ -1,2 +1,2 @@
 # trip-frontend
- Frontend part of the mobile application
+ Frontend part of the mobile application..
